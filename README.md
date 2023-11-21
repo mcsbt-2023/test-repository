@@ -1,6 +1,6 @@
 # Test Repository
 
-You can clone this repository from your computer!
+You can clone this repository to your computer!
 
 Clone it with the following command:
 
